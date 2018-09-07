@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PartyInvites.API.CrossCutting\PartyInvites.API.CrossCutting.csproj" />
+  </ItemGroup>
+
 </Project>
