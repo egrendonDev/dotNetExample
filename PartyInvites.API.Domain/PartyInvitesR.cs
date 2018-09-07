@@ -4,7 +4,7 @@
     using Entities;
     using System;
 	using System.Collections.Generic;
-
+    //My changes
 	public class PartyInvitesR: IPartyInvitesR
 	{
 		private static List<GuestResponse> _Storage = new List<GuestResponse>();
